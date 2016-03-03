@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./saliceseuropaeae00wimmuoft_0384.png"; bbox 0 0 2462 3970; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 156 45 259 95">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 156 45 259 95">
+     <span class='ocr_line' id='line_1_1' title="bbox 156 45 259 95; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 156 45 259 95; x_wconf 68' lang='lat'><strong>288</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 154 160 2444 265">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 154 160 2444 265">
+     <span class='ocr_line' id='line_1_2' title="bbox 154 160 2444 265; baseline 0 -1"><span class='ocrx_word' id='word_1_2' title='bbox 154 184 374 264; x_wconf 78' lang='lat' dir='ltr'><strong>Atlas</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 429 182 557 263; x_wconf 78' lang='lat' dir='ltr'><strong>des</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 610 184 663 261; x_wconf 92' lang='lat' dir='ltr'>P</span> <span class='ocrx_word' id='word_1_5' title='bbox 728 182 1264 262; x_wconf 56' lang='lat' dir='ltr'>anzenreich&amp;</span> <span class='ocrx_word' id='word_1_6' title='bbox 1317 211 1621 265; x_wconf 67' lang='lat' dir='ltr'>Bearbeitet</span> <span class='ocrx_word' id='word_1_7' title='bbox 1647 224 1753 264; x_wconf 81' lang='lat' dir='ltr'><strong>von</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1798 183 1921 261; x_wconf 85' lang='lat' dir='ltr'><strong>Dr.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1952 181 2026 261; x_wconf 85' lang='lat' dir='ltr'><strong>F.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 2055 160 2444 265; x_wconf 77' lang='lat' dir='ltr'><strong>Wimmer.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 668 281 1974 327">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 668 281 1974 327">
+     <span class='ocr_line' id='line_1_3' title="bbox 668 281 1974 327; baseline -0.001 0"><span class='ocrx_word' id='word_1_11' title='bbox 668 284 807 327; x_wconf 53' lang='lat' dir='ltr'>*them</span> <span class='ocrx_word' id='word_1_12' title='bbox 838 282 1076 326; x_wconf 70' lang='lat' dir='ltr'><strong>Ausl⁷unft</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1108 282 1295 326; x_wconf 73' lang='lat' dir='ltr'><strong>ertheilt</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1327 282 1399 325; x_wconf 77' lang='lat' dir='ltr'><strong>die</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 1431 281 1803 326; x_wconf 79' lang='lat' dir='ltr'>voranstehende</span> <span class='ocrx_word' id='word_1_16' title='bbox 1836 281 1974 326; x_wconf 82' lang='lat' dir='ltr'>Seite.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2462 3970">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2462 3970">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2462 3970; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 2462 3970; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
